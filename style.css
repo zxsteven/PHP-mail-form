@@ -1,0 +1,10 @@
+.email {
+	border: 1px solid grey;
+	border-radius: 10px;
+	margin-top: 20px;
+	padding-bottom: 15px;
+}
+
+textarea {
+	height: 120px;
+}
